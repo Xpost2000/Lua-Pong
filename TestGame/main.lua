@@ -3,10 +3,11 @@
 --
 -- LOVE structures it's programs/games like this
 -- 
--- love.draw() like rendering shit
+-- love.draw() like rendering
 -- love.load() initialization mostly.
 -- love.update()
--- and apparently a crapton of other call backs.... F**k
+-- and other predefined callbacks.
+-- this also looks like deformed C code.
 
 gameState=0;
 selectionY = 72*1.4+200+35
